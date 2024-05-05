@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ammalagonc
 - 👀 I’m interested in Data Wrangling, programming, Machine Learning and Computer Science. 
-- 🌱 I’m currently learning Data Science
+- 🌱 I’m currently learning Data Science (Got a Master's Degree - but I'm still learning).
 - 📫 How to reach me Ambrose.Malagon@protonmail.com
 
 <!---
